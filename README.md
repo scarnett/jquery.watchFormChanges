@@ -9,7 +9,7 @@ Load the javascript
 <body>
 	...
 	<script type="text/javascript" src="jquery.watchFormChanges.js"></script>
-</head>
+</body>
 ```
 
 ## Usage:
