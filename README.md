@@ -1,8 +1,5 @@
 # jquery.watchFormChanges
 
-// jquery.watchFormChanges v0.0.1
-// by Scott Carnett -- scott.carnett@gmail.com
-
 watchFormChanges - a simple jquery plugin to watch for form changes
 
 ## Installation
@@ -29,4 +26,11 @@ Here is list of all available
 | `fieldEvents` | `change keyup propertychange input` | string | Events to watch for
 
 ## License:
-jquery.watchFormChanges is Copyright © 2014 Scott Carnett and is licensed under the terms of the [GNU General Public License](http://opensource.org/licenses/GPL-2.0).
+Copyright (c) 2015 Scott Carnett
+Licensed under the [GNU General Public License](http://opensource.org/licenses/GPL-2.0).
+
+## Changelog
+
+`1.0.0` / `01.29.2015`
+
+- Plugin release
