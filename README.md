@@ -21,7 +21,7 @@ $('#form,#form2').watchFormChanges();
 
 ## Options:
 
-Here is list of all available
+Here is list of available options
 
 | Option | Default | Type | Description
 |--------|---------|------|------------
