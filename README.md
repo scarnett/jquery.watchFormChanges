@@ -33,4 +33,4 @@ Here is list of all available
 
 ## License:
 Copyright (c) 2015 Scott Carnett  
-Licensed under the [GNU General Public License](http://opensource.org/licenses/GPL-2.0)
+Licensed under the [The MIT License](http://opensource.org/licenses/MIT)
