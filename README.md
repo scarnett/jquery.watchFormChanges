@@ -4,8 +4,12 @@ jquery.watchFormChanges - a simple jquery plugin to watch for form changes
 
 ## Installation
 
+Load the javascript
 ```html
-<script type="text/javascript" src="jquery.watchFormChanges.js"></script>
+<body>
+	...
+	<script type="text/javascript" src="jquery.watchFormChanges.js"></script>
+</head>
 ```
 
 ## Usage:
