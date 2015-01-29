@@ -11,6 +11,8 @@
         
         forms.each(function() {
             var form = $(this);
+            
+            // This seems to resolve an issue in ie where a submit triggers the beforeunload event.
             form.submit(function() {
                 $(window).off('beforeunload');
             });
