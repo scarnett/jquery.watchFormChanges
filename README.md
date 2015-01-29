@@ -1,6 +1,6 @@
 # jquery.watchFormChanges
 
-watchFormChanges - a simple jquery plugin to watch for form changes
+jquery.watchFormChanges - a simple jquery plugin to watch for form changes
 
 ## Installation
 
