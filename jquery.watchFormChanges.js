@@ -1,3 +1,6 @@
+// jquery.watchFormChanges.js
+// https://github.com/scarnett/jquery.watchFormChanges
+// 01-29-2015, Scott Carnett, MIT License
 (function($) {
     $.fn.watchFormChanges = function(options) {
         var forms = $(this);
