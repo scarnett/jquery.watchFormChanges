@@ -12,6 +12,10 @@ Load the javascript
 </body>
 ```
 
+## Demo
+
+http://jsfiddle.net/scarnett/aL5j4t26/
+
 ## Usage:
 
 ```javascript
