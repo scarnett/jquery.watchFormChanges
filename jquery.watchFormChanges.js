@@ -46,7 +46,7 @@
             var eventData = jQuery._data($(window)[0], 'events')['beforeunload'];
             if (eventData == undefined) {
                 $(window).on('beforeunload', function() { 
-                    return 'Are you sure that you want to exist before saving your changes?';
+                    return 'Are you sure that you want to exit before saving your changes?';
                 });
             }
         }
